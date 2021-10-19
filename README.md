@@ -102,7 +102,27 @@ Clearly, some outliers are present in Insect_Count, doses_week, and number_weeks
 
 Now for removing these outliers I simply find the mean value of each column and replace it with an outlier value
 
-## Feature Engineering
+## Classification Models
+
+checked various classification models and calculated metrics such as the precision, recall, and F1 score
+
+Models used are:
+
+* Random Forest
+* K Nearest Neighbor(KNN)
+* Decision Tree Classifier
+* Gaussian NB
+Out of four models, KNN performed the best with 83% accuracy
+
+![Screenshot (324)](https://user-images.githubusercontent.com/54531542/137850033-fce96cb1-1e10-4f21-b6db-374382b23124.png)
+
+Again running the KNN model with its best parameters i.e. n_neighbor = 22
+
+![Screenshot (326)](https://user-images.githubusercontent.com/54531542/137850216-704ae214-1ac0-4045-af62-7b2184fa4dde.png)
+
+To check model performance, plotted different performance metrics
+
+
 
 
 
