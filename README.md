@@ -122,6 +122,20 @@ Again running the KNN model with its best parameters i.e. n_neighbor = 22
 
 To check model performance, plotted different performance metrics
 
+### Confusion Matrix
+
+![Screenshot (329)](https://user-images.githubusercontent.com/54531542/137851020-58a50e66-ce75-4512-8cef-2e16570bf154.png)
+
+### Precision and Recall
+
+![Screenshot (328)](https://user-images.githubusercontent.com/54531542/137851090-71f70462-8e0a-4ac3-8645-1e8c1d35e6c1.png)
+
+From observation, we found decent accuracy ( ~0.84), precision, and recall for the model. This indicates that the model is a good fit for the prediction.
+
+Thus KNN is saved as the final model
+
+Predicted result is saved under Crop_Damage_Predictions.csv
+
 
 
 
