@@ -57,5 +57,18 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 
 #### Univariate Analysis
 
+#### countplot of Crop_Damage
+
+![Screenshot (312)](https://user-images.githubusercontent.com/54531542/137831778-9cd579f0-2092-4bef-8b14-6e547864bc00.png)
+
+* Crop damage due to pesticides is less in comparison to damage due to other causes.
+* Crop type 0 has a higher chance of survival compared to crop type 1.
+
+#### Countplot for Crop_Damage vs Insect count for Crop Type
+
+![Screenshot (314)](https://user-images.githubusercontent.com/54531542/137832009-1321ae63-4807-4c3a-9ae5-8b59e4433949.png)
+
+
+
 
 
