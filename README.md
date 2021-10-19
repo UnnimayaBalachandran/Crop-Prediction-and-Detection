@@ -4,7 +4,7 @@
 
 ## Problem Definition
 
-To determine the outcome of the harvest season, i.e. whether the crop would be healthy (alive), damaged by pesticides, or damaged by other reasons thusintensifying farming and agricultural systems
+To determine the outcome of the harvest season, i.e. whether the crop would be healthy (alive), damaged by pesticides, or damaged by other reasons thus intensifying farming and agricultural systems
 
 ## Dataset and Description
 
@@ -43,4 +43,16 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 * Replaced missing values: As there are 9000 missing values in the Number_Weeks_Used column, replaced them by mode of the data
 
 ## Exploratory Data Analysis
+
+### Checked Correlation
+
+![image](https://user-images.githubusercontent.com/54531542/137827907-0e322656-87c2-45b0-b871-4b6f8c857b12.png)
+
+* Estimated_Insects_count,Pesticide_use_category and Number_weeks_used are positively correlated with Crop damage.
+* Number_weeks_used is positively correlated with Estimated_Insects_count and Pesticide_use_category.
+* Number_weeks_Quit is highly negatively correlated with Pesticide_use_category and Number_weeks_used.
+
+### Data Visualizations
+
+
 
