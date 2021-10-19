@@ -31,8 +31,16 @@ Number_Weeks_Used: Number of weeks used
 
 Number_Weeks_Quit: Number of weeks quit 
 
-Season: Season Category (1,2,3) 
+Season: Season Category (1,2,3)
 
 Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damage due to Pesticides)
 
+## Data Preprocessing
+
+* Checked Null Values:  Checked null values and found that there were 9000 missing values present in the Number_Weeks_Used variable.
+* Checked Datatypes: Checked Datatypes of all columns, to see any inconsistencies in the data.
+* Checked Unique Values: To understand unique values if present in columns, which will help to reduce dimensionality in future processing.
+* Replaced missing values: As there are 9000 missing values in the Number_Weeks_Used column, replaced them by mode of the data
+
+## Exploratory Data Analysis
 
