@@ -55,5 +55,7 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 
 ### Data Visualizations
 
+#### Univariate Analysis
+
 
 
