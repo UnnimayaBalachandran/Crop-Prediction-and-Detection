@@ -68,6 +68,35 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 
 ![Screenshot (314)](https://user-images.githubusercontent.com/54531542/137832009-1321ae63-4807-4c3a-9ae5-8b59e4433949.png)
 
+* Type 2 pesticide is much safer to use as compared to Type 3 pesticide
+* Type 3 pesticide shows most pesticide-related damage to crops
+
+#### Crop Damage Vs Number of Weeks Pesticide Used
+
+![Screenshot (316)](https://user-images.githubusercontent.com/54531542/137834067-ca5e3347-8db9-4280-8488-cc2caef32cbf.png)
+
+* From Graph 1 we can conclude that till 20-25 weeks damage due to pesticide is negligible.
+* From Graph 3 we can see that after 20 weeks damage due to the use of pesticide increases significantly.
+
+### Bivariate Analysis
+
+#### Crop_Damage vs Estimated_Insects_Count
+
+![Screenshot (318)](https://user-images.githubusercontent.com/54531542/137844075-5b835df2-4074-4d3e-ace5-69a3abb5af14.png)
+
+Clearly observed from the above plot that Most insect attacked crop type 0
+
+#### Crop_Type vs Number_Weeks_Used
+
+![Screenshot (320)](https://user-images.githubusercontent.com/54531542/137844311-e73a2091-ab21-4c02-9601-ebcf6ca09a1f.png)
+
+* Crop Type 0 is more vulnerable to pesticide-related and other damages as compared to Type1
+
+* Avg. duration of pesticide-related damage is lower for Crop type 1
+
+
+
+
 
 
 
