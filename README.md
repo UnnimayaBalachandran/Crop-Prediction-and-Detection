@@ -10,8 +10,10 @@ To determine the outcome of the harvest season, i.e. whether the crop would be h
 
 We have two datasets given to train and test
 
-test_agriculture.xlsx
-train_agriculture.csv
+* test_agriculture.xlsx - Test Data set
+* train_agriculture.csv - Train Data set
+
+## Feature Description
 
 ID: UniqueID 
 
@@ -32,3 +34,5 @@ Number_Weeks_Quit: Number of weeks quit
 Season: Season Category (1,2,3) 
 
 Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Damage due to Pesticides)
+
+
