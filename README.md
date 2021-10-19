@@ -102,6 +102,10 @@ Clearly, some outliers are present in Insect_Count, doses_week, and number_weeks
 
 Now for removing these outliers I simply find the mean value of each column and replace it with an outlier value
 
+## Feature Engineering
+
+
+
 
 
 
