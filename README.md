@@ -46,7 +46,8 @@ Crop_Damage: Crop Damage Category (0=alive, 1=Damage due to other causes, 2=Dama
 
 ### Checked Correlation
 
-![image](https://user-images.githubusercontent.com/54531542/137827907-0e322656-87c2-45b0-b871-4b6f8c857b12.png)
+![Screenshot (310)](https://user-images.githubusercontent.com/54531542/137828235-e16ced42-8404-4e7e-90cc-afcff8983475.png)
+
 
 * Estimated_Insects_count,Pesticide_use_category and Number_weeks_used are positively correlated with Crop damage.
 * Number_weeks_used is positively correlated with Estimated_Insects_count and Pesticide_use_category.
