@@ -94,6 +94,16 @@ Clearly observed from the above plot that Most insect attacked crop type 0
 
 * Avg. duration of pesticide-related damage is lower for Crop type 1
 
+## Outlier Analysis
+
+![Screenshot (322)](https://user-images.githubusercontent.com/54531542/137848685-6a7717bd-8a2e-459b-a8c8-d64fe7445ee2.png)
+
+Clearly, some outliers are present in Insect_Count, doses_week, and number_weeks_quit columns
+
+Now for removing these outliers I simply find the mean value of each column and replace it with an outlier value
+
+
+
 
 
 
